@@ -3,5 +3,15 @@
 }
 
 #register{
-    margin-left: 63rem;
+    margin-left: 83rem;
+}
+
+#navbarcolor{
+    background-color: aquamarine;
+}
+
+
+header{
+    height: 70vh;
+    background-color: bisque;
 }
